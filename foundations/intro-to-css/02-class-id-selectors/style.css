@@ -1,0 +1,19 @@
+.clase1 {
+    background-color: rgba(255,0,0,0.35);
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+
+#id1 {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+.clase1.clase2 {
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: rgba(0,255,0,0.6);
+    font-size: 24px;
+    font-weight: 700;
+}
